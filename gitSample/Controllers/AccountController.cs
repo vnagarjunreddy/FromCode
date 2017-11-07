@@ -17,7 +17,9 @@ namespace gitSample.Controllers
     {
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
-
+        /// <summary>
+        /// Test Commits
+        /// </summary>
         public AccountController()
         {
         }
